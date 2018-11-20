@@ -1,0 +1,21 @@
+.form {
+    width: 700px;
+    background:
+    radial-gradient(circle farthest-side at 0% 50%,#fc00ff 23.5%,rgba(240,166,17,0) 0)21px 30px,
+    radial-gradient(circle farthest-side at 0% 50%,#00dbde 24%,rgba(240,166,17,0) 0)19px 30px,
+    linear-gradient(#fc00ff 14%,rgba(240,166,17,0) 0, rgba(240,166,17,0) 85%,#fc00ff 0)0 0,
+    linear-gradient(150deg,#fc00ff 24%,#00dbde 0,#00dbde 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,#00dbde 0,#00dbde 76%,#fc00ff 0)0 0,
+    linear-gradient(30deg,#fc00ff 24%,#00dbde 0,#00dbde 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,#00dbde 0,#00dbde 76%,#fc00ff 0)0 0,
+    linear-gradient(90deg,#00dbde 2%,#fc00ff 0,#fc00ff 98%,#00dbde 0%)0 0 #fc00ff;
+    background-size: 40px 60px;
+    
+}
+
+.form input {
+    border: none;
+}
+
+.form button {
+    background: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+    border: none;
+}
